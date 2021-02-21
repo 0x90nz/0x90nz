@@ -1,6 +1,12 @@
 ### Hello!
 
-I'm a second year student studying computer science at Victoria University of Wellington. I'm mainly interested in systems programming, security and backend programming in general. I do occasionally venture out into web development, so in future there'll probably be more of that here. I have also recently taken interest in programming languages and the technologies relating to them.
+I'm a third year student studying computer science at Victoria University of Wellington. I'm mainly interested in systems programming, security and backend programming in general. I do occasionally venture out into web development, so in future there'll probably be more of that here.
+
+#### Programming Languages
+
+I'm most comfortable with `Java`, `C`, `C++`, `Python` and `C#`. I've also used `PHP`, `Assembly (x86)`, `JavaScript` and `TypeScript` to a lesser extent.
+
+#### Projects
 
 Here's some things I have recently been doing:
 
