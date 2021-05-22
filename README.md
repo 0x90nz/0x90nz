@@ -4,7 +4,7 @@ I'm a third year student studying computer science at Victoria University of Wel
 
 #### Programming Languages
 
-I'm most comfortable with `Java`, `C`, `C++`, `Python` and `C#`. I've also used `PHP`, `Assembly (x86)`, `JavaScript` and `TypeScript` to a lesser extent.
+I'm most comfortable with `Java`, `C`, `C++`, `Python` and `C#`. I've also used `Haskell`, `Prolog`, `PHP`, `Assembly (x86)`, `JavaScript`, and `TypeScript` to a lesser extent.
 
 #### Projects
 
